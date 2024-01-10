@@ -18,11 +18,18 @@
   },
   "homepage": "https://github.com/shuding/nextra-docs-template#readme",
   "dependencies": {
+    "@floating-ui/react": "^0.26.5",
+    "@react-spring/web": "^9.7.3",
+    "@types/lodash-es": "^4.17.12",
+    "@types/react": "^18.2.47",
+    "clsx": "^2.1.0",
+    "lodash-es": "^4.17.21",
     "next": "^13.0.6",
     "nextra": "latest",
     "nextra-theme-docs": "latest",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "zustand": "^4.4.7"
   },
   "devDependencies": {
     "@types/node": "18.11.10",
